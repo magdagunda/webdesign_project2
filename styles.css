@@ -19,6 +19,7 @@ main {
 .cards {
     background-color: rgba(8, 187, 52, 0.979);
     min-height: 300px;
+    display: flex;
 }
 
 .card1 {
