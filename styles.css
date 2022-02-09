@@ -8,6 +8,11 @@ body {
     color: white;
     font-size: 1.125rem;
 }
+a {
+    color: white;
+    font-style: none;
+    text-decoration: none;
+}
 
 .container {
     width: 1024px;
@@ -101,7 +106,10 @@ p {
     padding-top: 30px;
 }
 
-.cards a {
-    color: white;
-    text-decoration: none;
+.mybutton {
+    background-color: white;
+    color: #fa4083;
+    font-family: "Playfair Display", serif;
+    padding: 11px, 25px; 
+    display: inline-block;
 }
