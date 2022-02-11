@@ -108,8 +108,13 @@ p {
 
 .mybutton {
     background-color: white;
-    color: #fa4083;
+    color:#fa4083;
     font-family: "Playfair Display", serif;
-    padding: 11px, 25px; 
+    padding: 11px 25px;
+    border-radius: 2px;
+}
+
+a.mybutton {
     display: inline-block;
+    margin-top: 15px;
 }
