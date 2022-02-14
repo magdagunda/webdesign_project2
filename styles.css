@@ -123,3 +123,7 @@ a.mybutton {
     display: inline-block;
     margin-top: 15px;
 }
+
+nav a.mybutton {
+    margin-left: 30px;
+}
