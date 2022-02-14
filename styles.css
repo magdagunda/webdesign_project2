@@ -124,6 +124,12 @@ a.mybutton {
     margin-top: 15px;
 }
 
-nav a.mybutton {
-    margin-left: 30px;
+.navbutton {
+    border: 1px solid white;
+    background-color: none;
+    font-family: "Playfair Display", serif;
+    padding: 11px 25px;
+    border-radius: 2px;
+    border: white
+    text-align: center;
 }
