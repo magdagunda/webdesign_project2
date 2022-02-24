@@ -27,6 +27,7 @@ header {
     align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    border-bottom: 1px solid lightgrey;
 }
 
 main {
@@ -130,6 +131,4 @@ a.mybutton {
     font-family: "Playfair Display", serif;
     padding: 11px 25px;
     border-radius: 2px;
-    border: white
-    text-align: center;
 }
