@@ -132,3 +132,18 @@ a.mybutton {
     padding: 11px 25px;
     border-radius: 2px;
 }
+
+.testimonials {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.tbox {
+    width: 47%;
+    padding: 50px; 
+    border: 1px solid white; 
+    box-sizing: border-box;
+    margin-top: 50px;
+}
